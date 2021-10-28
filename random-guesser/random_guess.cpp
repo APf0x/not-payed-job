@@ -21,7 +21,7 @@ int main(){
             cout <<"the number that you put in input is higher that the number generated randomly "<< insult[rand()%5] << "\n";
         }else{
             cout <<"bravo you guessed right the random hidden number was "<< y <<" congratulations " << compliment[rand()%6] << "\n";
-            cout << "it took you only " << z << " tries you must be a spetial "<< "\xF0\x9F\x98\x8A \n";
+            cout << "it took you only " << z << " tries you must be a special "<< "\xF0\x9F\x98\x8A \n";
             break;
         }
     }
